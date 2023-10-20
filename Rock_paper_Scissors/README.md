@@ -1,1 +1,1 @@
-# ROck, Paper, Scissors
+# Rock, Paper, Scissors
